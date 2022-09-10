@@ -1,18 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
+title:  About
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Just a human being learning about life, sometimes coding and hacking and other times plain existing and reading about philosophy and other stuff. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If any article interest you, you can hit me up on linkedin or my personal email, my email is always open to talks and I will try my best to reply as soon as possible.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<!--author-->
