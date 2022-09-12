@@ -51,7 +51,7 @@ author:
 ## Menu 
 menu:
   - title: About
-    url: /about/
+    url: /about
 
 
 # Configuration section for accepting or not accepting tags in the blog posts .
