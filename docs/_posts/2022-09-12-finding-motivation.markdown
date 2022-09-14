@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding motivation where there's none"
+title:  "Finding motivation when there's none"
 date:   2022-09-12 17:20:00 -0400
 categories: [self]
 ---
